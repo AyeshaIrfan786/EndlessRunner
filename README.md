@@ -11,7 +11,7 @@ CyberRunner is a side-scrolling endless runner set in a neon-lit cyberpunk world
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 - The player character runs automatically from left to right
 - Obstacles (drones, barriers, etc.) approach from the right
@@ -22,7 +22,7 @@ CyberRunner is a side-scrolling endless runner set in a neon-lit cyberpunk world
 
 ---
 
-## ✨ Features
+##  Features
 
 - Smooth 2D graphics powered by SFML
 - Procedurally generated obstacles for endless replayability
@@ -33,7 +33,7 @@ CyberRunner is a side-scrolling endless runner set in a neon-lit cyberpunk world
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 EndlessRunner/
@@ -47,7 +47,7 @@ EndlessRunner/
 
 ---
 
-## 🧱 OOP Design
+##  OOP Design
 
 This project demonstrates the following OOP concepts:
 
@@ -62,7 +62,7 @@ This project demonstrates the following OOP concepts:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** C++ (C++17)
 - **Graphics Library:** [SFML](https://www.sfml-dev.org/) (Simple and Fast Multimedia Library)
@@ -71,7 +71,7 @@ This project demonstrates the following OOP concepts:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -100,7 +100,7 @@ g++ src/*.cpp -o CyberRunner -lsfml-graphics -lsfml-window -lsfml-system -lsfml-
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Key | Action |
 |---|---|
@@ -110,7 +110,7 @@ g++ src/*.cpp -o CyberRunner -lsfml-graphics -lsfml-window -lsfml-system -lsfml-
 
 ---
 
-## 📊 High Score
+##  High Score
 
 The game automatically saves your best score to `highscore.dat` in the project root. Delete this file to reset the leaderboard.
 
@@ -118,12 +118,12 @@ The game automatically saves your best score to `highscore.dat` in the project r
 
 
 
-## 📚 Course Context
+## Course Context
 
 This project was submitted as a semester project demonstrating applied OOP concepts in C++, including class design, inheritance hierarchies, polymorphic behavior, and real-time game loop architecture.
 
 ---
 
-## 📄 License
+##  License
 
 This project is for academic/educational purposes.
